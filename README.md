@@ -27,7 +27,7 @@
 | Проект | Описание |
 |--------|----------|
 | [**BootForge**](https://github.com/SLEP-KOMP/BootForge) | Утилита для записи загрузочных флешек на базе Rufus с поддержкой нескольких независимых экземпляров. Запускайте запись Windows 11 / Linux / Windows 10 в отдельных окнах |
-| [**HackicLab**](https://github.com/SLEP-KOMP/HackicLab) | Интеллектуальный сборщик Hackintosh EFI (OpenCore): сканирует железо Windows, подбирает и скачивает kext/OpenCore, генерирует config.plist и валидирует его через ocvalidate |
+| [**HackicLab**](https://github.com/SLEP-KOMP/HackicLab) | Интеллектуальный сборщик Hackintosh EFI (OpenCore) на PySide6: сканирует железо Windows, подбирает и скачивает kext/OpenCore, генерирует полный config.plist по схеме OpenCore 1.0.x с **начисто проходящей ocvalidate** валидацией, автоподбором SMBIOS, записью EFI на USB и установщиком macOS Recovery |
 
 ### 🧰 Стэк и инструменты
 
