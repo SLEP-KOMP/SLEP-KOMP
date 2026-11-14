@@ -1,5 +1,8 @@
 ## Привет! Меня зовут Александр 👋
 
+[![GitHub followers](https://img.shields.io/github/followers/SLEP-KOMP?style=flat-square&label=Подписчики&color=blue)](https://github.com/SLEP-KOMP?tab=followers)
+![Profile views](https://komarev.com/ghpvc/?username=SLEP-KOMP&style=flat-square&color=blue&label=Просмотры)
+
 Я увлечённый энтузиаст компьютерного железа и ПО. Помогаю людям с компьютерами, ноутбуками и цифровой периферией — от установки операционной системы до подбора комплектующих под конкретные задачи.
 
 Ты попал на мой GitHub-профиль. Здесь я делюсь своими проектами, инструментами и опытом. Некоторые из них родились из личных потребностей и повседневной работы — например, утилита [**BootMate**](https://github.com/SLEP-KOMP/BootMate) для работы с загрузочными флешками.
