@@ -23,11 +23,12 @@
 [Исходный код](https://github.com/SLEP-KOMP/BootForge) · [Релизы](https://github.com/SLEP-KOMP/BootForge/releases)
 
 ### [HackicLab](https://github.com/SLEP-KOMP/HackicLab)
-**Графический инструмент для подготовки EFI-конфигураций Hackintosh на Windows.**
+**Графический инструмент на PySide6 для подготовки EFI-конфигураций Hackintosh на Windows.**
 
-- Сбор информации об аппаратной конфигурации компьютера.
+- Сбор информации об аппаратной конфигурации компьютера (включая Wi-Fi и Bluetooth).
 - Загрузка OpenCore и необходимых kext.
-- Формирование `config.plist` и проверка через `ocvalidate`.
+- Формирование `config.plist` по полной схеме OpenCore и проверка через `ocvalidate`.
+- Автоподбор SMBIOS под выбранную версию macOS.
 - Анализ EFI, запись EFI на USB и подготовка macOS Recovery.
 - Интерфейс на русском и английском языках.
 
